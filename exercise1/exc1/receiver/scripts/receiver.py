@@ -2,6 +2,7 @@
 import rospy
 from std_msgs.msg import Int16, Float32
 
+
 class Receiver:
     pub = None
     rate = None
